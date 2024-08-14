@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-07-23T09:36:03.160610+00:00
+#Last modified: 2024-08-14T07:43:41.241421+00:00
 #--------------------------------------
-#Total lines: 629
+#Total lines: 630
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -139,6 +139,7 @@ DOMAIN,andrqd.play.aiseet.atianqi.com,reject
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net,reject
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net,reject
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao2.com,reject

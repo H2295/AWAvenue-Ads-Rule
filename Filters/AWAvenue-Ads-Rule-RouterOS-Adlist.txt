@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-07-23T09:36:03.160610+00:00
+#Last modified: 2024-08-14T07:43:41.241421+00:00
 #--------------------------------------
-#Total lines: 611
+#Total lines: 612
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -140,6 +140,7 @@
 0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
 0.0.0.0 apd-pcdnwxnat.teg.tencent-cloud.net
 0.0.0.0 apd-pcdnwxstat.teg.tencent-cloud.net
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-access.pangolin-sdk-toutiao2.com
