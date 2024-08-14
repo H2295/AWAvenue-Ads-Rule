@@ -35,6 +35,10 @@ jobs:
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox-regex.json
         rm -rf *sing-box*
+        wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.18.7/mihomo-darwin-amd64-v1.18.7.gz
+        gzip -d mihomo.gz
+        chmod +x */mihomo
+        ./*/mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs
         ls
 
     - name: Git push
