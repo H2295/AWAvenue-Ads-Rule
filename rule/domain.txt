@@ -134,6 +134,7 @@ api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
 api-access.pangolin-sdk-toutiao5.com
+api-access.pangolin-sdk-toutiao-b.com
 api-ad-product.huxiu.com
 api-adservices.apple.com
 api-htp.beizi.biz
