@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-09-27T06:30:22.792116+00:00
+#Last modified: 2024-09-27T06:32:17.165205+00:00
 #--------------------------------------
-#Total lines: 702
+#Total lines: 701
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,7 +12,6 @@ payload:
   - IP-CIDR,123.56.23.22/32
   - IP-CIDR,182.254.116.116/32
   - IP-CIDR,203.205.137.89/32
-  - DOMAIN,
   - DOMAIN,1010pic.com
   - DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
   - DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
