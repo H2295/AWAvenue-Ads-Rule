@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2024-12-13T06:32:43.654845+00:00
+!Last modified: 2024-12-13T06:35:32.371286+00:00
 !--------------------------------------
-!Total lines: 696
+!Total lines: 695
 !Version: 1.5.0-release-Patch-2
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -671,7 +671,6 @@
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
 ||wximg.wxs.qq.com^
-||wxsmw.wxs.qq.com^
 ||wxsnsad.tc.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^

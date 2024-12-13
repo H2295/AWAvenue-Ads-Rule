@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-12-13T06:32:43.654845+00:00
+#Last modified: 2024-12-13T06:35:32.371286+00:00
 #--------------------------------------
-#Total lines: 699
+#Total lines: 698
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -674,7 +674,6 @@ DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,www42.zskwai.com,reject
 DOMAIN,wximg.wxs.qq.com,reject
-DOMAIN,wxsmw.wxs.qq.com,reject
 DOMAIN,wxsnsad.tc.qq.com,reject
 DOMAIN,wxsnsdy.wxs.qq.com,reject
 DOMAIN,wxsnsdythumb.wxs.qq.com,reject
