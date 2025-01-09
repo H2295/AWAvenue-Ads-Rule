@@ -349,7 +349,6 @@ iadctest.qwapi.com
 iadsdk.apple.com
 iadworkbench.apple.com
 ifacelog.iqiyi.com
-ifs.tanx.com
 igexin.com
 ii.gdt.qq.com
 imag8.pubmatic.com
