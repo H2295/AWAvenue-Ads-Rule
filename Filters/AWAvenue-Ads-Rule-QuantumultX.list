@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2025-01-07T03:57:53.324802+00:00
+#Last modified: 2025-01-09T00:34:14.784947+00:00
 #--------------------------------------
-#Total lines: 755
+#Total lines: 754
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -359,7 +359,6 @@ DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadsdk.apple.com,reject
 DOMAIN,iadworkbench.apple.com,reject
 DOMAIN,ifacelog.iqiyi.com,reject
-DOMAIN,ifs.tanx.com,reject
 DOMAIN,igexin.com,reject
 DOMAIN,ii.gdt.qq.com,reject
 DOMAIN,imag8.pubmatic.com,reject

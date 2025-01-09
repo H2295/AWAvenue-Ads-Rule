@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2025-01-07T03:57:53.324802+00:00
+!Last modified: 2025-01-09T00:34:14.784947+00:00
 !--------------------------------------
-!Total lines: 737
+!Total lines: 736
 !Version: 1.5.0-release-Patch-2
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -360,7 +360,6 @@
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadworkbench.apple.com
 127.0.0.1 ifacelog.iqiyi.com
-127.0.0.1 ifs.tanx.com
 127.0.0.1 igexin.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 imag8.pubmatic.com

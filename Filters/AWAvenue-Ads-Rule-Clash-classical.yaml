@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2025-01-07T03:57:53.324802+00:00
+#Last modified: 2025-01-09T00:34:14.784947+00:00
 #--------------------------------------
-#Total lines: 756
+#Total lines: 755
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -360,7 +360,6 @@ payload:
   - DOMAIN,iadsdk.apple.com
   - DOMAIN,iadworkbench.apple.com
   - DOMAIN,ifacelog.iqiyi.com
-  - DOMAIN,ifs.tanx.com
   - DOMAIN,igexin.com
   - DOMAIN,ii.gdt.qq.com
   - DOMAIN,imag8.pubmatic.com
