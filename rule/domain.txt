@@ -103,7 +103,6 @@ adsfs.oppomobile.com
 adslvfile.qq.com
 adsmart.konka.com
 adsmind.gdtimg.com
-adsmind.ugdtimg.com
 adsp.xunlei.com
 adstats.tencentmusic.com
 adstore-1252524079.file.myqcloud.com
@@ -509,7 +508,6 @@ pagead2.googlesyndication.com
 pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
 pay.sboot.cn
-pgdt.ugdtimg.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
 pig.pupuapi.com
