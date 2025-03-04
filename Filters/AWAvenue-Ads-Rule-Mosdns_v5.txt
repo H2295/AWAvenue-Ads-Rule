@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2025-01-09T00:34:14.784947+00:00
+#Last modified: 2025-03-04T04:00:02.986373+00:00
 #--------------------------------------
-#Total lines: 736
+#Total lines: 735
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -111,7 +111,6 @@ domain:adsfs.oppomobile.com
 domain:adslvfile.qq.com
 domain:adsmart.konka.com
 domain:adsmind.gdtimg.com
-domain:adsmind.ugdtimg.com
 domain:adsp.xunlei.com
 domain:adstats.tencentmusic.com
 domain:adstore-1252524079.file.myqcloud.com
